@@ -1,4 +1,4 @@
-var apiEndpoint = 'http://localhost:8080/';
+var apiEndpoint = 'http://{{PUBLIC_IP}}:8080/';
 var login;
 var gameId;
 var mySymbol;
